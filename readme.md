@@ -67,6 +67,9 @@
 5. 切换分支之后，工作区的代码自动切换到对应分支的代码
 6. 合并分支：git merge test 把test分支合并到当前分支
 7. 删除分支 ：git branch -D 分支名
+8. get pull origin dev 更新代码到本地，自动合并到当前分支，没有记录
+9. get fetch origin dev 更新代码到本地，不会自动合并到当前分支
+10. git merge FETCH_HEAD ：合并代码到当前分支
 
 
 dev 分支代码wrrwewrwer
