@@ -37,5 +37,9 @@
 https://github.com/18797872779/Git-Text.git
 
 
+<<<<<<< HEAD
 ## 下载项目到本地
 1. 克隆
+=======
+的操场上的所得到的得到的东方大道
+>>>>>>> c84e36fd4c0a9fa7e1b16aaee0e286d6c7a60e8c
